@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HSZ_Beadando
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
+namespace HSZ_Beadando {
+    internal class Program {
+        static void Main(string[] args) {
+
+            Console.WriteLine("TESZT");
+            Console.ReadKey();
         }
     }
 }
