@@ -9,6 +9,7 @@ namespace HSZ_Beadando {
         static void Main(string[] args) {
 
             Console.WriteLine("TESZT");
+            Console.WriteLine("Teszt_2");
             Console.ReadKey();
         }
     }
